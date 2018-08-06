@@ -12,7 +12,7 @@ To play the game, just open **&lt;index.html&gt;** in your favourite modern geck
 
 Purpose
 -------
-This purpose of Snake JS is (in this order)
+The purpose of this project
 
 1.	to explore, discuss and practise good OOP design
 	in a simple and naked JavaScript-based environment;
