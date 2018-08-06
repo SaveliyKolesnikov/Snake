@@ -4,7 +4,7 @@ Snake JS is a **one player simple 2D-game** written *purely in JavaScript* (with
 
 Demo
 ----
-Play the game on my [personal website][2]. There is also a highscore feature there.
+Play the game on my [personal website][2]. There is also a highscore feature there and mobile devices support.
 
 Instructions
 ------------
@@ -18,8 +18,6 @@ This purpose of Snake JS is (in this order)
 	in a simple and naked JavaScript-based environment,
 2.	to adapt new web techniques, like the HTML5 canvas element
 3.	to create an extremely entertaining game.
-
-The purpose is **not** to make the game cross-browser compatible. Hacks and inconsistensies are only applied when absolutely necessary.
 
 [1]: http://en.wikipedia.org/wiki/Snake_(video_game)
 [2]: https://snake3.azurewebsites.net/
