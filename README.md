@@ -4,7 +4,7 @@ Snake JS is a **one player simple 2D-game** written *purely in JavaScript* (with
 
 Demo
 ----
-Play the game on my [personal website][4]. There is also a highscore feature there.
+Play the game on my [personal website][2]. There is also a highscore feature there.
 
 Instructions
 ------------
