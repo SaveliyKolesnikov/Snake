@@ -1,0 +1,98 @@
+body {
+    overflow: hidden;
+}
+
+.wrapper {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#home {
+    position: relative;
+    width: 750px;
+    height: 750px;
+    margin-right: 25%;
+    margin-left: 25%;
+    background-image: url('../img/snake.png');
+    background-size: auto 350px;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+    background-position: center center;
+    padding: 0;
+}
+
+#pauseBanner {
+    display: none;
+    position: absolute;
+    width: 750px;
+    height: 750px;
+    background: rgba(211, 211, 211, 0.91);
+}
+
+#pauseBanner span {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    font-size: 180px;
+    font-family: "Indie Flower", cursive;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.m-b-30 {
+    margin-bottom: 30px;
+}
+
+blockquote {
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+    color: #b2e7e4;
+    margin: 0;
+    padding: 0;
+}
+
+.siteLink {
+    text-decoration: none;
+    text-underline: none;
+}
+
+.siteLink:visited {
+    color: inherit;
+}
+
+#pause {
+    display: none;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    bottom: 0;
+    height: 30px;
+    font-size: 16px;
+    float: left;
+    width: 90px;
+    margin: 10px 0 0 0;
+}
+
+button:hover {
+    background-color: orange;
+}
+
+button:disabled {
+    background-color: grey;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    width: 250px;
+    margin: 18px 0 5px 8px;
+    float: left;
+}
+
+
